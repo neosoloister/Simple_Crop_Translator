@@ -1,4 +1,3 @@
-#!/usr/bin/env zsh
 set -e
 
 # Folder where this .zsh file lives (src/)

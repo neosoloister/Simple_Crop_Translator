@@ -9,5 +9,3 @@ A simple Python project that translates crop-related text from **English to Thai
 - Clear Thai meaning/explanation
 - Simple and clean project structure
 - Easy to integrate into other projects
-
-## 📦 Project Structure
